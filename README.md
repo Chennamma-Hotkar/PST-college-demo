@@ -1,4 +1,4 @@
 # PST-college-demo
 This is my first repository.
 <br>
-Author - Chennamma 
+Author - Chennamma Hotkar (chennu)
